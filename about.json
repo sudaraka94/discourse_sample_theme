@@ -1,13 +1,13 @@
 {
-  "name": "The name of your theme",
+  "name": "Awesome theme",
   "about_url": "http://somesite.com/about_your_theme",
   "license_url": "http://somesite.com/license",
    "assets": {
        "font": "assets/some_font.woff2"
    },
    "color_schemes": {
-       "Scheme Name": {
-            "tertiary": "019245"
+       "sample_scheme": {
+            "tertiary": "2b6ca3"
         }
     }
 }
