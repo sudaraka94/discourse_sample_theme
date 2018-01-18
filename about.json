@@ -8,7 +8,8 @@
    "color_schemes": {
        "sample_scheme": {
             "tertiary": "2b6ca3",
-            "quaternary": "2b6ca3"
+            "quaternary": "2b6ca3",
+            "quaternary-low": "2b6ca3"
         }
     }
 }
